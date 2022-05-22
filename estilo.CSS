@@ -8,6 +8,8 @@ li{
     float: left;
     list-style: none;
     padding: 10px;
+    margin-top: 60px;
+    margin-right: 500;
 }
 nav{
     float:right;
