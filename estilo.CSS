@@ -10,8 +10,12 @@ li{
 }
 nav{
     float:right ;
+    margin-top: 60px;
+    margin-right: 150px;
 }
 
 a{
     text-decoration: none;
+    font-family: fantasy;
+    color: blue;
 }
