@@ -7,8 +7,7 @@ img{
 li{
     float: left;
     list-style: none;
-    margin-top: 15px;
-    margin-right: 500;
+    padding: 10px;
 }
 nav{
     float:right;
