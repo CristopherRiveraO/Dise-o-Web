@@ -4,13 +4,6 @@ img{
     margin-left: 50px;
 }
 
-li{
-    float: left;
-    list-style: none;
-    padding: 10px;
-
-}
-
 nav{
     float:right;
     margin-top: 20px;
@@ -27,7 +20,5 @@ header{
     background-color: beige;
 }
 
-ul{
-    float: left;
-}
+
 
