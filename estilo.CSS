@@ -24,3 +24,11 @@ a{
 header{
     background-color: beige;
 }
+
+ul{
+    float: left;
+}
+
+nav{
+    float: left;
+}
