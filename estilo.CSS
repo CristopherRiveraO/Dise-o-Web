@@ -5,15 +5,16 @@ img{
 }
 
 li{
-    float: right;
+    float: left;
     list-style: none;
     padding: 10px;
-    margin-right: 150px ;
+
 }
+
 nav{
-    float:left;
+    float:right;
     margin-top: 60px;
-    margin-right: 150px;
+    margin-right: 300px;
 }
 
 a{
