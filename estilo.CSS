@@ -20,7 +20,7 @@ header{
     background-color: beige;
 }
 
-.ejemplo{
+.Perfil{
     float: right;
     color: blue;
     margin-top: none;
@@ -35,4 +35,20 @@ div{
     font-size:larger;
 }
 
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 10px;
+}
+
+th{
+    text-align: left;
+}
+
+p{
+    text-align: center;
+}
 
