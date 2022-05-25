@@ -23,7 +23,7 @@ header{
 .ejemplo{
     float: right;
     color: blue;
-    margin-top: 10%;
+    margin-top: none;
     margin-right: 1300px;
 }
 
